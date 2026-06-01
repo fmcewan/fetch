@@ -1,2 +1,2 @@
 # fetch
- An HTTP Request Runner written in TypeScript using Ink.
+ An HTTP Request runner written in TypeScript using Ink.
