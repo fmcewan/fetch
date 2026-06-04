@@ -1,2 +1,2 @@
 # fetch
- An HTTP Request runner written in TypeScript using Ink.
+ An HTTP Request runner written in Go using bubbletea.
